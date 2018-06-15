@@ -1,4 +1,4 @@
-# Distribution-Website-Load-To-Google-Servers
+# Distributing-Website-Load-To-Google-Servers
 
 This prototype implementation can be used to solve problem of exam results site getting crashed on result publishing day due to large number of users accessing at same time.
 
