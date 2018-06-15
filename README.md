@@ -43,7 +43,7 @@ a text field to enter hall ticket and Submit button
 
 - This Database file is in excel format and stored at Google drive
 
-![image]()
+![image](https://github.com/fawazahmed0/Distributing-website-load-to-google-servers/blob/master/images/-2018-jan-29-033.jpg)
 
 ### Input Validation Screenshots
 
